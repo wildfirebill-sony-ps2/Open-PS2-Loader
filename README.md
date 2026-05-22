@@ -1,5 +1,7 @@
 # Open PS2 Loader
 
+Modified by [wildfirebill](https://github.com/wildfirebill)
+
 Copyright 2013, Ifcaro & jimmikaelkael
 Licensed under Academic Free License version 3.0
 Review the LICENSE file for further details.
